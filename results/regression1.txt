@@ -1,0 +1,71 @@
+
+=============================================================
+                                      Dependent variable:    
+                                  ---------------------------
+                                     political_campaigning   
+-------------------------------------------------------------
+Literacy                                   0.070***          
+                                            (0.016)          
+                                                             
+Associations                               0.247***          
+                                            (0.021)          
+                                                             
+North_East_Region                          0.301***          
+                                            (0.025)          
+                                                             
+Scheduled_Tribe                             0.076**          
+                                            (0.030)          
+                                                             
+South_India_Region                         -0.071***         
+                                            (0.020)          
+                                                             
+Hinduism                                   -0.080***         
+                                            (0.030)          
+                                                             
+Islam                                      -0.075**          
+                                            (0.036)          
+                                                             
+Christianity                               -0.224***         
+                                            (0.041)          
+                                                             
+Scheduled_Caste                              0.025           
+                                            (0.022)          
+                                                             
+OBC                                         -0.003           
+                                            (0.018)          
+                                                             
+Subnationalism                              0.032**          
+                                            (0.015)          
+                                                             
+Army_Spending                              0.096***          
+                                            (0.015)          
+                                                             
+Reservation                                0.065***          
+                                            (0.017)          
+                                                             
+Employment                                 0.082***          
+                                            (0.015)          
+                                                             
+Rural                                      0.076***          
+                                            (0.018)          
+                                                             
+Low_Income                                   0.022           
+                                            (0.018)          
+                                                             
+Moderate_High_Income                        -0.038           
+                                            (0.025)          
+                                                             
+North_East_Region:Scheduled_Tribe            0.004           
+                                            (0.049)          
+                                                             
+Constant                                     0.055           
+                                            (0.039)          
+                                                             
+-------------------------------------------------------------
+Observations                                12,410           
+R2                                           0.055           
+Adjusted R2                                  0.054           
+Residual Std. Error                   0.789 (df = 12391)     
+F Statistic                       40.294*** (df = 18; 12391) 
+=============================================================
+Note:                             *p<0.1; **p<0.05; ***p<0.01
